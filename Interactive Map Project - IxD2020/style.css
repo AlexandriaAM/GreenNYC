@@ -1,0 +1,208 @@
+body { 
+    
+    margin: 0; 
+    padding: 0;   
+}
+
+#plantwall {
+ background-image: url(images/landbg.png); 
+ background-size: cover; 
+ position: fixed;
+
+}
+
+#logo {
+    
+   margin-top: 75%;
+   margin-left: 65px;
+   width: 220px;
+}
+
+footer {  
+    
+    margin-top: 30%;
+    margin-left: 30%;
+    font-size: 15pt;
+}
+
+#beginbttn { 
+    
+    width: 100px;
+    margin-top: 60px;
+    margin-left: 43px;
+
+}
+
+/* choosepg  */ 
+
+#urbanplant { 
+    background-image: url(images/choosebg2.png);
+    background-size: cover;
+    position: fixed;
+}
+
+p{ 
+
+margin-top: 20%;
+margin-left: 80px;
+font-family: karu light;
+color: floralwhite;
+font-size: 20pt;
+text-align: center;
+}
+
+#borough {
+ 
+font-family: karu light;
+color: floralwhite;
+margin-top: 70px;
+list-style-type: none;
+text-align: center;
+font-size: 15.5pt;
+margin-left: 40px;
+}
+
+a { 
+color: floralwhite;
+text-decoration: none;
+}
+
+.bronx {  
+border: 1px solid white;
+margin-top: 15px;
+margin-bottom: 50px;
+border-radius: 50px;
+
+}
+
+.brooklyn {
+border: 1px solid white;
+margin-top: 15px;
+margin-bottom: 50px;
+border-radius: 50px;
+}
+
+.manhattan { 
+border: 2px solid green;
+margin-top: 15px;
+margin-bottom: 50px;
+border-radius: 50px;
+}
+
+.queens { 
+border: 1px solid white;
+margin-top: 15px;
+margin-bottom: 50px;
+border-radius: 50px;
+}
+
+.staten {
+border: 1px solid white;
+margin-top: 15px;
+margin-bottom: 50px; 
+border-radius: 50px;
+}
+
+
+/* wherepg */ 
+
+#map { 
+background-image: url(images/Manhattan%20Map.png);
+background-size: cover; 
+}
+
+#altogether {
+background-color: white;
+border: 1px solid black;
+margin-top: 65%;
+border-radius: 20px;
+margin-right: 10px;
+margin-left: 10px;
+}
+
+#topdiscover { 
+margin-top: 2px;
+list-style-type: none;
+font-family: karu light;
+}
+
+.notch { 
+width: 30px;
+margin-left: 36%;
+margin-bottom: 20px;
+}
+
+.manicon { 
+width: 155px;
+margin-left: 50px;
+margin-bottom: 20px;
+}
+
+#help{ 
+margin-left: 20px;
+margin-bottom: 55px;
+font-size: 12pt;
+}
+
+#discover { 
+margin-top: 5px;
+list-style-type: none;
+font-family: karu light; 
+font-size: 12pt;  
+padding: 0; 
+}
+
+.parkicon { 
+width: 35px;
+margin-right: 50px;
+margin-left: 50px;
+}
+
+.gardenicon { 
+width: 35px;
+margin-right: 50px; 
+margin-left: 50px;
+}
+
+.waterwaysicon { 
+width: 33px;
+margin-right: 50px;
+margin-left: 50px;
+}
+
+.bikeicon { 
+width: 40px;
+margin-right: 48px; 
+margin-left: 50px;
+}
+
+#park { 
+border-bottom: #cccccc 2px solid;
+margin-bottom: 30px;
+}
+
+#garden { 
+border-bottom: #cccccc 2px solid;
+margin-bottom: 30px;
+}
+
+#waterways { 
+border-bottom: #cccccc 2px solid;
+margin-bottom: 5px;
+}
+
+#bikeways {
+margin-bottom: 20px;
+margin-bottom: 30px;
+}
+
+#smnav { 
+width: 390px;
+margin-left:-12px;
+margin-top: 0;
+}
+
+#nav { 
+width: 360px;
+margin-left: 20px;
+}
